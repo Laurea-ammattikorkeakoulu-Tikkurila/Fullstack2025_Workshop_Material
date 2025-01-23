@@ -1,4 +1,4 @@
-# Node.js and Web Development Exercises
+# Laurea Fullstack TO0065BS Course Workshop material - 2025
 
 This repository contains a series of exercises designed to help you learn and practice various aspects of Node.js, Express, EJS, MongoDB, and React. Each subdirectory contains a set of exercises focused on a specific topic.
 

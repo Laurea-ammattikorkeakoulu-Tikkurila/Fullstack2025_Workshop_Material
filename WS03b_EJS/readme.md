@@ -44,3 +44,7 @@
 3. Test your application to ensure the list of objects is correctly displayed.
 
 These exercises should help students get comfortable with using EJS in a Node.js and Express environment. If you need more advanced exercises or further details, feel free to ask!
+
+## Copyright
+
+© 2025 JariKovis

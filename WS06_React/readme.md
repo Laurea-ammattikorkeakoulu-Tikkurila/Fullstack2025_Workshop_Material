@@ -14,3 +14,7 @@
 1.  Open up your terminal and bootstrap a new React app with Vite
 2. [You will find the React Router tutorial here](https://reactrouter.com/6.28.0/start/tutorial)
 3. For more information, visit the [React Router Documentation](https://reactrouter.com/home).
+
+## Copyright
+
+© 2025 JariKovis

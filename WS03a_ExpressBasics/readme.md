@@ -43,3 +43,7 @@
 2. Use the middleware function in your `app.js` file.
 3. Create another middleware function that checks if a custom header (X-Custom-Header) is present in the request and responds with an error if it's missing.
 4. Use the second middleware function for a specific route and test it using Postman or a similar tool.
+
+## Copyright
+
+© 2025 JariKovis

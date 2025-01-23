@@ -43,4 +43,4 @@ This project is licensed under the MIT License.
 
 ## Copyright
 
-© 2023 JariKovis
+© 2025 JariKovis

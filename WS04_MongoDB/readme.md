@@ -12,3 +12,7 @@ The Introduction to MongoDB course guides you through the foundational skills an
 3. Complete the required 12 courses (units).
 
 4. Return the link (URL) to your proof of completion (or copy of the certificate). You will find the link (URL) when you click the "Share to LinkedIn" button.
+
+## Copyright
+
+© 2025 JariKovis

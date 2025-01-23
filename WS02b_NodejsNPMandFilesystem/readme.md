@@ -73,3 +73,7 @@
 2. Write a Node.js script that uses `fs.watch` to monitor changes to `watch.txt`.
 3. Log a message to the console whenever the file is modified.
 4. Test the script by making changes to `watch.txt` and observing the console output.
+
+## Copyright
+
+© 2025 JariKovis

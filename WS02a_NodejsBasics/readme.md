@@ -31,3 +31,7 @@
 2. Use the http module to create a server that responds with "Hello, World!" to any incoming request.
 3. Make the server listen on port 3000.
 4. Test your server by navigating to `http://localhost:3000/` in your web browser.
+
+## Copyright
+
+© 2025 JariKovis

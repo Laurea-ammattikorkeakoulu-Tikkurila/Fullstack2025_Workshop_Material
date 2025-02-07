@@ -20,17 +20,20 @@
 
 **Tasks:**
 1. Create a new file `math.js` that exports functions for addition and subtraction.
-2. Import these functions into your `app.js` file.
-3. Use the imported functions to perform some calculations and log the results to the console.
+2. Create another file `stringUtils.js` that exports functions for string manipulation (e.g., converting a string to uppercase and reversing a string).
+3. Import these functions into your `app.js` file.
+4. Use the imported functions to perform some calculations and string manipulations, then log the results to the console.
 
 # Exercise 4: Creating an HTTP Server
 **Objective:** Build a basic HTTP server using the http module.
 
 **Tasks:**
 1. Create a new file `server.js`.
-2. Use the http module to create a server that responds with "Hello, World!" to any incoming request.
-3. Make the server listen on port 3000.
-4. Test your server by navigating to `http://localhost:3000/` in your web browser.
+2. Use the http module to create a server that responds with "Hello, World!" to any incoming request at the root URL (`/`).
+3. Add a route `/about` that responds with "About Page".
+4. Add a route `/contact` that responds with "Contact Page".
+5. Make the server listen on port 3000.
+6. Test your server by navigating to `http://localhost:3000/`, `http://localhost:3000/about`, and `http://localhost:3000/contact` in your web browser.
 
 ## Copyright
 

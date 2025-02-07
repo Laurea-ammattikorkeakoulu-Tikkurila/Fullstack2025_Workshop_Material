@@ -21,8 +21,11 @@
 **Tasks:**
 1. Create a new file `math.js` that exports functions for addition and subtraction.
 2. Create another file `stringUtils.js` that exports functions for string manipulation (e.g., converting a string to uppercase and reversing a string).
-3. Import these functions into your `app.js` file.
-4. Use the imported functions to perform some calculations and string manipulations, then log the results to the console.
+3. Create yet another custom module `dateUtils.js` that exports functions for date manipulation (e.g., getting the current date and formatting a date).
+4. Import these functions into your `app.js` file.
+5. Use the imported functions to perform some calculations and string manipulations, then log the results to the console.
+
+For more information on creating and using custom modules in Node.js, refer to this [article](https://www.studytrigger.com/article/node-js-custom-modules-how-to-create-export-and-utilize-them/).
 
 # Exercise 4: Creating an HTTP Server
 **Objective:** Build a basic HTTP server using the http module.

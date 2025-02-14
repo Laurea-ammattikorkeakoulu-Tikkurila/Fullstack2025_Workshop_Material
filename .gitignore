@@ -1,4 +1,4 @@
-WS02b_*/
+WS02b_*/tuntiharjoitukset/
 WS03a_*/
 WS03b_*/
 WS04_*/
@@ -6,3 +6,5 @@ WS05_*/
 WS06_*/
 
 Ratkaisut/
+node_modules/
+.env

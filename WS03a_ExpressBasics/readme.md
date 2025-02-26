@@ -1,10 +1,4 @@
-# Exercise 1: Setting Up an Express Project
-**Objective:** Learn how to set up a basic Express project.
-
-**Tasks:**
-Sure, here is the combined Exercise 1 and Exercise 2:
-
-### Exercise 1: Setting Up an Express Project and Creating Basic Routes
+# Exercise 1: Setting Up an Express Project and Creating Basic Routes
 
 **Objective:** Learn how to set up a basic Express project and create basic routes.
 

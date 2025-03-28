@@ -1,3 +1,8 @@
+# Workshop: Nodejs nmp ja file system
+
+**Note:** You can complete all these exercises in a single file when appropriate. In that case, please comment in the code where each exercise can be found. Alternatively, you can create separate files for each exercise. In either case, please update this `readme.md` file to describe where the solutions for each exercise can be found.
+
+
 
 # Exercise 1: Initializing a Node.js Project and Installing Packages
 **Objective:** Learn how to initialize a Node.js project and install npm packages.

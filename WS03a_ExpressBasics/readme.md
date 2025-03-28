@@ -1,3 +1,9 @@
+# Workshop Express basics
+
+**Note:** You can complete all these exercises in a single file when appropriate. In that case, please comment in the code where each exercise can be found. Alternatively, you can create separate files for each exercise. In either case, please update this `readme.md` file to describe where the solutions for each exercise can be found.
+
+---
+
 # Exercise 1: Setting Up an Express Project and Creating Basic Routes
 
 **Objective:** Learn how to set up a basic Express project and create basic routes.

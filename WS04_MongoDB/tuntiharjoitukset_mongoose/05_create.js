@@ -16,25 +16,25 @@ async function main() {
 
   /* Luodaan uusi opiskelija olio ja tulostetaan sen nimi konsoliin ja tallennetaan tietokantaan*/
   const tupu = new Opiskelija({
-    name: "Tupu",
-    email: "tupu@laurea.fi",
-    age: 2500,
+    name: "Jenna",
+    email: "Jenna@laurea.fi",
+    age: 250,
     group: "Koodarit",
   });
   console.log(tupu.name);
   await tupu.save();
   /* Luodaan kaksi uutta opiskelija oliota ja toinen tallennetaan tietokantaan ja toinen kutsuu methodia*/
   const hupu = new Opiskelija({
-    name: "Hupu",
-    email: "hupu@laurea.fi",
+    name: "Mikael",
+    email: "mikael@laurea.fi",
     age: 2501,
     group: "Koodarit",
   });
 
   await hupu.save();
   const aku = new Opiskelija({
-    name: "Aku Ankka",
-    email: "aa@laurea.fi",
+    name: "Santeri",
+    email: "Santeri@laurea.fi",
     age: 231,
     group: "Sählärit",
   });

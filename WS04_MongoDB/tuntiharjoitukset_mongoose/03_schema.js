@@ -1,6 +1,6 @@
 // Otetaan moduuli käyttöön
 require("dotenv").config();
-var mongoose = require("mongoose");
+const mongoose = require("mongoose");
 
 const Kitten = require("./modules/model");
 // Määritellään yhteysosoite
@@ -12,9 +12,7 @@ const uri = process.env.MONGODB_URI;
 main().catch(err => console.log(err));
 
 async function main() {
-    await mongoose.connect(uri, { useNewUrlParser: true, 
-        useUnifiedTopology: true 
-    });
+    await mongoose.connect(uri)
     console.log("Yhteys on muodostettu!");
     /* Luodaan uusi kitten olio ja tulostetaan sen nimi konsoliin */
     const silence = new Kitten({ name: 'Musti' });

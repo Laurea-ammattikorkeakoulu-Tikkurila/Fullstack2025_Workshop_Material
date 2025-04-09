@@ -15,8 +15,8 @@ main().catch(err => console.log(err));
 async function main() {
     await mongoose.connect(uri1);
     console.log("Yhteys on muodostettu!");
-    const filter = { name: 'Tupu' };
-    const update = { age: 54 };
+    const filter = { name: 'Jenna' };
+    const update = { age: 250000 };
     const updated = await Opiskelija.findOneAndUpdate(filter, update, { new: true });
     if (updated) {
         console.log("Opiskelijan " + updated.name + " ikä on päivitetty!");

@@ -1,6 +1,6 @@
 // Otetaan moduuli käyttöön
 require("dotenv").config();
-var mongoose = require("mongoose");
+const mongoose = require("mongoose");
 
 // Määritellään yhteysosoite
 

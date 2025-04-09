@@ -2,7 +2,7 @@ require("dotenv").config();
 var mongoose = require("mongoose");
 const Opiskelija = require("./modules/opiskelija");
 // Määritellään yhteysosoite
-const uri = process.env.MONGODB_URI;
+const uri = process.env.MONGODB_URI + "local_library";
 
 
 // Luodaan yhteys

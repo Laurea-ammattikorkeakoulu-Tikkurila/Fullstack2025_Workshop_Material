@@ -4,7 +4,7 @@ import { useState } from "react";
 
 const Content = () => {
 
-    const name = 'FullStack';
+    const name = 'BullStack';
 
     const [nimi, setNimi] = useState('FullStack');
 
@@ -32,7 +32,7 @@ const Content = () => {
             {/* Your content goes here */}
 
             {/* HTML elementti, joka näkyy selaimessa */}
-            <h1>Hello World</h1>
+            <h1>Terve maailma</h1>
 
             {/* Paragraph element with a variable */}
             <p>Hello {name}</p>
@@ -70,7 +70,7 @@ const Content = () => {
             <p>...and a map method: {[1, 2, 3].map(n => n * 2)}</p>
 
             {/* Paragraph with a string method */}
-            <p>{name.toUpperCase()}</p>
+            <p>{nimi.toUpperCase()}</p>
         </main>
     );
 };

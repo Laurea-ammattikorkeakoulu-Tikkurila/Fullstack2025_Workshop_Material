@@ -9,7 +9,7 @@ import Toolbar from "./tools";
 import LightSwitch from "./lightSwitch";
 
 function App() {
-  const [count, setCount] = useState(0);
+  const [count, setCount] = useState(100);
 
   useEffect(() => {
     document.title = ` Klicks ${count * 2} `;
@@ -20,7 +20,7 @@ function App() {
       <h1>React Hooks</h1>
       <Toolbar />
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
+        <button onClick={() => setCount((count) => count - 1)}>
           count is {count}
         </button>
         <br />

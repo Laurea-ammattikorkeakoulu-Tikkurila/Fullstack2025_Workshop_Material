@@ -11,13 +11,13 @@ function PlayButton({ movieName }) {
 }
 
 function UploadButton() {
-  return <Button onClick={() => alert("Ladataan...!")}>Upload Image</Button>;
+  return <Button onClick={() => alert("Ladataan...!")}>Download Image</Button>;
 }
 
 export default function Toolbar() {
   return (
     <div>
-      <PlayButton movieName="FullStack" />
+      <PlayButton movieName="BullStack" />
       <UploadButton />
     </div>
   );

@@ -7,7 +7,7 @@ import Lista from "./components/Lista";
 
 const App = () => {
   return (
-    <div className="App">
+    <div>
       <h1> Laurea FullStack 2025 React sovellus!</h1>
       <Time />
       <Hello />

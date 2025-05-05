@@ -1,5 +1,5 @@
 const user = {
-  firstName: "Full",
+  firstName: "Bull",
   lastName: "Stack",
   avatarUrl: "https://cdn.sstatic.net/Sites/stackoverflow/img/captcha.svg",
   linkki: "https://canvas.laurea.fi/courses/11658",

@@ -8,7 +8,7 @@ import App from "./App";
 
 // Redux uses a unidirectional data flow, meaning that data flows in one direction through the application.
 // counterReducer is a function that takes the current state and an action as arguments and returns the new state.
-const counterReducer = (state = 0, action) => {
+const counterReducer = (state = 100, action) => {
   switch (action.type) {
     case "LISÄÄ":
       return state + 1;
